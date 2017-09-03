@@ -4,7 +4,7 @@
 }
 
 body {
-  min-width: 1340px;
+  min-width: 1600px;
 }
 
 .fl {
@@ -517,4 +517,21 @@ td:last-child {
   font-size: 14px;
   padding: 0 20px;
   border-right: 1px solid #aaaaaa;
+}
+
+.ziti18 {
+  color: #aaaaaa;
+  font-size: 14px;
+  padding: 0 20px;
+}
+
+.ziti19 {
+  color: #aaaaaa;
+  font-size: 14px;
+}
+
+.ziti20 {
+  color: #aaaaaa;
+  font-size: 14px;
+  padding-left: 100px
 }
